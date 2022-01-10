@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zoraida777
 - 👀 I’m interested in C/C++/Web/Python3.X/JavaScript
 - 🌱 I’m currently learning C/C++/Web/Python3.X/JavaScript
-- 💞️ I’m looking to collaborate on Nintendo console hacks, websites, backend and robotics.
+- 💞️ I’m looking to collaborate on websites, backend, robotics and security.
 - 📫 How to reach me omar_j_r@hotmail.com and alicrush777@hotmail.com
 
 <!---
